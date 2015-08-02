@@ -1,86 +1,1 @@
-body {
-	margin: 0px;    /* still need the 4 horsemen */
-}
-
-A:link, A:active { color: #d38425; }
-A:visited { color: #a96a1e; }
-A:hover { color: #dc9d51; }
-
-table {
-	border: 0px; 
-	margin: 0px; 
-	padding: 0px;
-	border-spacing: 0px;
-	border-collapse: collapse;
-	vertical-align: top;
-}
-
-td,p {
-	font-family: Verdana, Arial, Sans-Serif;
-	font-size: 9px;
-	line-height: 14px;
-	font-style: normal;
-	font-weight: normal;
-	text-decoration: none;
-	color: #636363;
-}
-
-span.headlineabout {
-	font-family: Verdana, Arial, Sans-serif;
-	font-weight: bold;
-	font-size: 10px;
-	line-height: 14px;
-	color: #6a2427; 
-}
-
-span.headlineproducts {
-	font-family: Verdana, Arial, Sans-serif;
-	font-weight: bold;
-	font-size: 10px;
-	line-height: 14px;
-	color: #d38425; 
-}
-
-span.headlineresources {
-	font-family: Verdana, Arial, Sans-serif;
-	font-weight: bold;
-	font-size: 10px;
-	line-height: 14px;
-	color: #a0b151; 
-}
-
-span.headlinecontact {
-	font-family: Verdana, Arial, Sans-serif;
-	font-weight: bold;
-	font-size: 10px;
-	line-height: 14px;
-	color: #6f7e96; 
-}
-
-span.subhead {
-	font-family: Verdana, Arial, Sans-serif;
-	font-weight: bold;
-	font-style: normal;
-	font-size: 9;
-	line-height: 12px;
-	color: #636363; 
-}
-
-span.maintext {
-	font-family: Verdana, Arial, Sans-Serif;
-	font-weight: normal;
-	font-style: normal;
-	font-size: 9px;
-	line-height: 14px;
-	color: #636363;
-}
-
-span.orange {
-	font-family: Verdana, Arial, Sans-Serif;
-	font-weight: normal;
-	font-style: normal;
-	font-size: 9px;
-	line-height: 14px;
-	color: #d38425;
-}
-
+body {	margin: 0px;    /* still need the 4 horsemen */}A:link, A:active { color: #d38425; }A:visited { color: #a96a1e; }A:hover { color: #dc9d51; }table {	border: 0px; 	margin: 0px; 	padding: 0px;	border-spacing: 0px;	border-collapse: collapse;	vertical-align: top;}td,p {	font-family: Verdana, Arial, Sans-Serif;	font-size: 9px;	line-height: 14px;	font-style: normal;	font-weight: normal;	text-decoration: none;	color: #636363;}span.headlineabout {	font-family: Verdana, Arial, Sans-serif;	font-weight: bold;	font-size: 10px;	line-height: 14px;	color: #6a2427; }span.headlineproducts {	font-family: Verdana, Arial, Sans-serif;	font-weight: bold;	font-size: 10px;	line-height: 14px;	color: #d38425; }span.headlineresources {	font-family: Verdana, Arial, Sans-serif;	font-weight: bold;	font-size: 10px;	line-height: 14px;	color: #a0b151; }span.headlinecontact {	font-family: Verdana, Arial, Sans-serif;	font-weight: bold;	font-size: 10px;	line-height: 14px;	color: #6f7e96; }span.subhead {	font-family: Verdana, Arial, Sans-serif;	font-weight: bold;	font-style: normal;	font-size: 9;	line-height: 12px;	color: #636363; }span.maintext {	font-family: Verdana, Arial, Sans-Serif;	font-weight: normal;	font-style: normal;	font-size: 9px;	line-height: 14px;	color: #636363;}span.orange {	font-family: Verdana, Arial, Sans-Serif;	font-weight: normal;	font-style: normal;	font-size: 9px;	line-height: 14px;	color: #d38425;}
